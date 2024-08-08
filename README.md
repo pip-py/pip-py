@@ -4,6 +4,9 @@ Hi I'm Joe and I am currently the Lead Data Scientist for Sussex Partnership NHS
 
 
 Within this github I am working on two open-source projects;
+
+[**note** - first drafts of the two below projects are due to go-live late august :)] 
+
 * [**SupaQ**](https://github.com/pip-py/SupaQ) -> is a very efficient Discrete Event Simulation(DES) for the simplest of networks, designed for use in wait time scenario modelling
   * If you're an expert in building libraries and functionality this may be the perfect place for you to take some shonky data-scientists code and transform it into a highly versatile tool!
 * [**Public Sector Drive Times**](https://github.com/pip-py/public_sector_drive_time) -> with the use of Ordnance Survey drive time data and openstreetmaps - create an efficient tool for analysis locations **locally** and for **free** (if you have the public sector geospatial agreement)
