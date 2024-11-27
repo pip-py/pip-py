@@ -18,3 +18,4 @@ Research interest;
 * Democratisation of AI & ML
 * Open-source scalable software solution for public good
 * Trust and Safety AI & ML
+* Computer Vision 
