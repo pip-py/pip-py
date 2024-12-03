@@ -7,7 +7,7 @@ Within this github I am working on two open-source projects;
 
 ### OS Projects/Published Work
 
-[**note** - first drafts of the two below projects are due to go-live late December :)] 
+[**note** - first drafts of the two below projects are due to go-live late March 2025 :)] 
 
 * [**SupaQ**](https://github.com/pip-py/SupaQ) -> is a very efficient Discrete Event Simulation(DES) for the simplest of networks, designed for use in wait time scenario modelling
   * If you're an expert in building libraries and functionality this may be the perfect place for you to take some shonky data-scientists code and transform it into a highly versatile tool!
@@ -17,7 +17,12 @@ Within this github I am working on two open-source projects;
  
 ### MRes Assignments and Projects;
 * [**Invariance in Variational Auto-Encoders: Evaluation of Latent Representation for
-Image Classification**](https://github.com/pip-py/mres_inv_vae) -> Formative Assignment (ungraded) Advanced Method in Machine Learning 
+Image Classification**](https://github.com/pip-py/mres_inv_vae) -> Formative Assignment (ungraded) Advanced Methods in Machine Learning - Course Lead Dr.Ivor Simpson
+* [**In Plane Sight: Scanline Encoders for SNN's**](https://github.com/pip-py/mres_ips_scanline_snn) -> Summative Assignment (self directed research) Advanced Methods in Bio-Inspired AI - Course Lead Dr.Thomas Nowotny
+* [**Intermediary Image Sequence Learning**](https://github.com/pip-py/mres_image_sequence_learning) -> Summative Assignment (defined problem) Advanced Methods in Machine Learning - Course Lead Dr.Ivor Simpson
+
+[Note: NLP unit not listed here, formative (graded): 79/100) 
+
 
 Research interest;
 * Democratisation of AI & ML
