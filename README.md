@@ -19,7 +19,7 @@ Within this github I am working on two open-source projects;
 * [**Invariance in Variational Auto-Encoders: Evaluation of Latent Representation for
 Image Classification**](https://github.com/pip-py/mres_inv_vae) -> Formative Assignment (ungraded) Advanced Methods in Machine Learning - Course Lead Dr.Ivor Simpson
 * [**In Plane Sight: Scanline Encoders for SNN's**](https://github.com/pip-py/mres_ips_scanline_snn) -> Summative Assignment (self directed research) Advanced Methods in Bio-Inspired AI - Course Lead Dr.Thomas Nowotny
-* [**Intermediary Image Sequence Learning**](https://github.com/pip-py/mres_image_sequence_learning) -> Summative Assignment (defined problem) Advanced Methods in Machine Learning - Course Lead Dr.Ivor Simpson
+* [**SimVPv2 for Image Sequence Interpolation and Extrapolation**](https://github.com/pip-py/mres_image_sequence_learning) -> Summative Assignment (defined problem) Advanced Methods in Machine Learning - Course Lead Dr.Ivor Simpson
 
 [Note: NLP unit not listed here, formative (graded): 79/100) 
 
