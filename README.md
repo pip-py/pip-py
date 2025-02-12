@@ -1,6 +1,6 @@
 ## Hey 👋
 
-Hi I'm Joe and I am currently the Lead Data Scientist for Sussex Partnership NHS Foundation Trust and I am studying for my MRes in Advanced Artificial Intelligence [24->26]. 
+Hi I'm Joe and I am currently the Lead Data Scientist for Sussex Partnership NHS Foundation Trust and I am studying for my MRes in Advanced Artificial Intelligence [24->25]. 
 
 
 Within this github I am working on two open-source projects;
