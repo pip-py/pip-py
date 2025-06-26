@@ -9,7 +9,7 @@ Within this github I am working on two open-source projects;
 
 [**note** - first drafts of the two below projects are due to go-live late March 2025 :)] 
 
-* [**SimuWait**](https://github.com/mindful-research/SimuWait) -> is a very efficient Discrete Event Simulation(DES) for the simplest of networks, designed for use in wait time scenario modelling
+* [**SimuWait**](https://github.com/SimuWait/SimuWait) -> is a very efficient Discrete Event Simulation(DES) for the simplest of networks, designed for use in wait time scenario modelling
   * This is currently in private mode
 * [**Public Sector Drive Times**](https://github.com/pip-py/public_sector_drive_time) -> with the use of Ordnance Survey drive time data and openstreetmaps - create an efficient tool for analysis locations **locally** and for **free** (if you have the public sector geospatial agreement)
   * if not public sector! well the functionality can be built off the back of any edge speed data that you have! OR through the paid options of ONS data!
