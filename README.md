@@ -1,6 +1,6 @@
 ## Hey 👋
 
-Hi I'm Joe and I am currently the Lead Data Scientist for Sussex Partnership NHS Foundation Trust.
+Hi I'm Joe and I am currently workin as a Data Scientist for Sciensus.
 
 
 Within this github I am working on two open-source projects;
