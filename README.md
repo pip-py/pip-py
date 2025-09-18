@@ -1,6 +1,6 @@
 ## Hey 👋
 
-Hi I'm Joe and I am currently workin as a Data Scientist for Sciensus.
+Hi I'm Joe and I am currently working as a Data Scientist for Sciensus.
 
 
 Within this github I am working on two open-source projects;
