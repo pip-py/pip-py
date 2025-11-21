@@ -3,11 +3,9 @@
 Hi I'm Joe and I am currently working as a Data Scientist for Sciensus.
 
 
-Within this github I am working on two open-source projects;
+Within this github I am working on open-source projects;
 
 ### OS Projects/Published Work
-
-[**note** - first drafts of the two below projects are due to go-live late March 2025 :)] 
 
 * [**SimuWait**](https://github.com/SimuWait/SimuWait) -> is a very efficient Discrete Event Simulation(DES) for the simplest of networks, designed for use in wait time scenario modelling
   * This is currently in private mode
